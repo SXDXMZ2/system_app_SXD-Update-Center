@@ -16,7 +16,7 @@
 
 <resources>
 
-    <string name="app_name">OTA Updater</string>
+    <string name="app_name">SXD Update Center</string>
     
     <string name="notif_text_rom">OTA ROM Update Available</string>
     <string name="notif_source">OTA Updater</string>
